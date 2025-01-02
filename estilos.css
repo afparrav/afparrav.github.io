@@ -1,0 +1,19 @@
+body{
+  font-family:serif;
+  color:#024a86;
+  background-color:#e7d40a;
+}
+h1{
+  font-family:helvetica, sans-serif;
+  font-weight: bold;
+}
+li {
+  display: inline;
+  background: white;
+  border-right: 1em solid black;
+  font-family:helvetica, sans-serif;
+  font-weight: bold;
+}
+address {
+  border-top: thin dotted;
+}
